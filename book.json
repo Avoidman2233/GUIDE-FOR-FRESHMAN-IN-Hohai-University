@@ -1,6 +1,6 @@
 {
     "gitbook": "3.x.x",
-    "plugins": [ "anchors","anchor-navigation-ex","latex-codecogs","favicon", "github", "-lunr", "-search",
+    "plugins": [ "accordion","lightbox","anchors","anchor-navigation-ex","latex-codecogs","favicon", "github", "-lunr", "-search",
         "search-plus", "github-buttons",
         "tbfed-pagefooter", "expandable-chapters-small",
         "book-summary-scroll-position-saver","sitemap"
