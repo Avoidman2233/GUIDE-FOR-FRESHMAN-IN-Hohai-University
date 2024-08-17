@@ -3,7 +3,7 @@
     "plugins": [ "lightbox","accordion","latex-codecogs", "github", "-lunr", "-search",
         "search-plus", "github-buttons",
         "tbfed-pagefooter", "expandable-chapters-small",
-        "book-summary-scroll-position-saver","sitemap","pageview-count","theme-comscore","theme-fexa"
+        "sitemap","pageview-count","theme-comscore","theme-fexa"
         ],
     "pluginsConfig": {
         "theme-fexa":{
