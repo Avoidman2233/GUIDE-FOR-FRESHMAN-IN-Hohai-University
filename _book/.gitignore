@@ -2,7 +2,6 @@
 CONTRIBUTING.md
 # 忽略待办任务的相关信息
 TODO.md
-# 忽略 node_modules 目录
-node_modules/
 # 忽略 package-lock.json 文件
 package-lock.json
+node_modules

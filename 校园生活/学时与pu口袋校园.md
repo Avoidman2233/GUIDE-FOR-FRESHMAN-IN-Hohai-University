@@ -3,7 +3,7 @@
 - **学时是什么**
 	- 学时与学分是不同的东西,学时是你的课外活动证明,学分是完成课程获得的,学分仅影响部分荣誉的评定与毕业,**不影响保研考研**，但阶段性不达标可能会影响评奖评优
 	- 什么是阶段性达标？
-		![pu](https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACIMBmu1DHTviyJat0P_ppLJfg81Bj2wACUgQAAqTP2EWYWSXq_r97KDUE)
+		![pu](/校园生活/image/学时合格表.png)
 	- 学时需求
 		- 四年累计获得**200**个就可以正常毕业,分为以下类型
 			- 社会实践学时:**80**个

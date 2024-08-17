@@ -1,9 +1,9 @@
 {
     "gitbook": "3.x.x",
-    "plugins": [ "accordion","lightbox","anchors","anchor-navigation-ex","latex-codecogs","favicon", "github", "-lunr", "-search",
+    "plugins": [ "lightbox","accordion","anchors","anchor-navigation-ex","latex-codecogs", "github", "-lunr", "-search",
         "search-plus", "github-buttons",
         "tbfed-pagefooter", "expandable-chapters-small",
-        "book-summary-scroll-position-saver","sitemap"
+        "book-summary-scroll-position-saver","sitemap","pageview-count","theme-comscore"
         ],
     "pluginsConfig": {
         "sitemap": {
@@ -29,7 +29,7 @@
             }]
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright &copy <a href='https://github.com/Avoidman2233' target='_blank'>Avoidman2233</a> 2024",
+            "copyright": "Copyright &copy <a 'target='_blank'>河海大学不完全入学指北编辑部</a> 2024",
             "modify_label": "修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -66,7 +66,7 @@
             "bottom": 56
         }
     },
-    "title": "河海大学新生指南FAKE",
+    "title": "河海大学不完全入学指北",
     "description": "做最真诚的指南",
     "author": "FACK_NOICE_PUBLIC",
     "language": "zh-hans",
