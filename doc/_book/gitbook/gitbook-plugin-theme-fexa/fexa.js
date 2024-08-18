@@ -12,10 +12,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     }
 
     // 生成内容导航
-    function generateSectionNavigator() {
-        // 保留原有的生成导航逻辑
-        // ...
-    }
+
 
     // 基础设置
     function setBase() {
