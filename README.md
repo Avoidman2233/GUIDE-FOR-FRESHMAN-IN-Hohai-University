@@ -57,6 +57,18 @@ gitbook基本知识可以看[这里](https://jiangminggithub.github.io/gitbook/4
 如果你想要部署gitbook来查看自己的成果,请参考以下配置:
 - Node.js版本:20.16.0
 - honkit版本:5.1.4 
+  
+[下载nvm](https://github.com/coreybutler/nvm-windows/releases/download/1.1.12/nvm-setup.zip)
+进cmd，下载不了的可以百度搜教程换镜像源
+```
+nvm install 20.16.0
+nvm use 20.16.0
+npm install -g honkit
+
+进入工程文件目录
+cmd
+honkit serve
+```
 
 -------------------------------
 ## 任何人都欢迎参与
