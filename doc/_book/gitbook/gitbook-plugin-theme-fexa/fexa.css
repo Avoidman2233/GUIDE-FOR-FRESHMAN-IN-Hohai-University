@@ -222,28 +222,3 @@ body {
 .book-anchor .anchor-h3{
   padding-left: 30px;
 }
-
-@media (max-width: 768px) {
-    .page-inner {
-        padding: 20px;
-        max-width: 100%;
-    }
-
-    .markdown-section h1 {
-        font-size: 24px;
-    }
-
-    .markdown-section h2 {
-        font-size: 20px;
-    }
-
-    .markdown-section h3 {
-        font-size: 18px;
-    }
-    .markdown-section img {
-        max-width: 100%;
-    }
-}
-.book-anchor {
-    display: none;
-}

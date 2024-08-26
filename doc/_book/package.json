@@ -20,6 +20,7 @@
     "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
     "gitbook-plugin-theme-comscore": "^0.0.3",
     "gitbook-plugin-theme-fexa": "^1.0.6",
-    "honkit": "^5.1.4"
+    "honkit": "^5.1.4",
+    "lightbox": "^0.5.0"
   }
 }
